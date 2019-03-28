@@ -2388,3 +2388,10 @@ footer .menu li a:hover {
   font-size: 18px;
   margin-bottom: 0;
 }
+
+.madeinna {
+  position: absolute;
+  top: 25%;
+  right: 5%;
+  max-width: 250px;
+}
