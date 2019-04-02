@@ -2395,3 +2395,28 @@ footer .menu li a:hover {
   right: 5%;
   max-width: 150px;
 }
+
+@media (max-width: 767px) {  
+  .madeinna {
+    max-width: 100px;
+  }
+}
+
+@media (max-width: 640px) {  
+  .carousel-caption h4 {
+    font-size: 30px !important;
+  }
+  .carousel-caption h3 {
+    font-size: 40px !important;
+  }
+  .carousel-caption h2 {
+    font-size: 45px !important;
+  }
+  .carousel-caption h1 {
+    font-size: 60px !important;
+  }
+
+  .carousel-caption a {
+    margin-bottom: -2px !important;
+  }
+}
