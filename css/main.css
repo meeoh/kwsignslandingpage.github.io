@@ -2428,12 +2428,10 @@ footer .menu li a:hover {
 
 @media (max-width: 640px) {
   .vegas {
-    top: 26%;
-    right: 35%;
+    display: none
   }
   .dallas {
-    top: 30%;
-    right: 70%;
+    display: none
   }
 }
 
