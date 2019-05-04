@@ -2396,20 +2396,20 @@ footer .menu li a:hover {
   max-width: 150px;
 }
 
-.vegas {
+.signexpo {
   position: absolute;
   top: 52%;
   right: 5%;
   z-index: 9999;
 }
 
-.vegas img {
+.signexpo {
   max-width: 180px;
 }
 
 .dallas {
   position: absolute;
-  top: 80%;
+  top: 52%;
   right: 5%;
   max-width: 211px;
 }
@@ -2418,7 +2418,7 @@ footer .menu li a:hover {
   .madeinna {
     max-width: 100px;
   }
-  .vegas img {
+  .signexpo {
     max-width: 100px;
   }
   .dallas {
@@ -2427,7 +2427,7 @@ footer .menu li a:hover {
 }
 
 @media (max-width: 640px) {
-  .vegas {
+  .signexpo {
     display: none
   }
   .dallas {
