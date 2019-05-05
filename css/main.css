@@ -2415,7 +2415,7 @@ footer .menu li a:hover {
   position: absolute;
   top: 75%;
   right: 5%;
-  max-width: 211px;
+  max-width: 190px;
 }
 
 @media (max-width: 767px) {  
