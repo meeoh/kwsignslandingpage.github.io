@@ -2396,6 +2396,14 @@ footer .menu li a:hover {
   max-width: 150px;
 }
 
+.signexpo {
+  position: absolute;
+  top: 52%;
+  right: 5%;
+  z-index: 9999;
+  max-width: 200px;
+}
+
 .dallas {
   position: absolute;
   top: 62%;
@@ -2403,12 +2411,11 @@ footer .menu li a:hover {
   max-width: 211px;
 }
 
-.signexpo {
+.sgia {
   position: absolute;
-  top: 52%;
+  top: 75%;
   right: 5%;
-  z-index: 9999;
-  max-width: 200px;
+  max-width: 211px;
 }
 
 @media (max-width: 767px) {  
