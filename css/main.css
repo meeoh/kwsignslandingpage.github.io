@@ -2428,6 +2428,9 @@ footer .menu li a:hover {
   .dallas {
     max-width: 100px
   }
+  .sgia {
+    max-width: 100px
+  }
 }
 
 @media (max-width: 640px) {
@@ -2435,6 +2438,9 @@ footer .menu li a:hover {
     display: none
   }
   .dallas {
+    display: none
+  }
+  .sgia {
     display: none
   }
 }
