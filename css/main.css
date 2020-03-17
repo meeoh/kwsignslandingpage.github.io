@@ -374,8 +374,8 @@ button:focus {
   }
 }
 
-/* ========================================================================== 
-  -2.5 Scroll To Up 
+/* ==========================================================================
+  -2.5 Scroll To Up
    ========================================================================== */
 .back-to-top {
   display: none;
@@ -934,7 +934,7 @@ button:focus {
 }
 
 /* ==========================================================================
-   Clients 
+   Clients
    ========================================================================== */
 #clients {
   background: #f9f9f9;
@@ -1764,7 +1764,7 @@ button:focus {
 }
 
 /* ==========================================================================
-   Blog 
+   Blog
    ========================================================================== */
 #blog .blog-item-wrapper {
   background: #fff;
@@ -2418,7 +2418,7 @@ footer .menu li a:hover {
   max-width: 190px;
 }
 
-@media (max-width: 767px) {  
+@media (max-width: 767px) {
   .madeinna {
     max-width: 100px;
   }
@@ -2445,7 +2445,7 @@ footer .menu li a:hover {
   }
 }
 
-@media (max-width: 640px) {  
+@media (max-width: 640px) {
   .carousel-caption h4 {
     font-size: 30px !important;
   }
@@ -2462,4 +2462,8 @@ footer .menu li a:hover {
   .carousel-caption a {
     margin-bottom: -2px !important;
   }
+}
+
+#contact {
+  background: #f9f9f9;
 }
