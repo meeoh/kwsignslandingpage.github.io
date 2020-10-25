@@ -2458,6 +2458,13 @@ footer .menu li a:hover {
   }
 }
 
+@media (max-width: 472px) {
+  .container a {
+    width: 100%;
+    text-align: center;
+  }
+}
+
 @media (max-width: 640px) {
   .signexpo {
     display: none;
