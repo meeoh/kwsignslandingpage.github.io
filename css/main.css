@@ -2467,6 +2467,14 @@ footer .menu li a:hover {
   .navbar-brand {
     display: none;
   }
+
+  #carousel-area .carousel-item .carousel-caption {
+    top: 20% !important;
+  }
+
+  .madeinna {
+    top: 15% !important;
+  }
 }
 
 @media (max-width: 640px) {
