@@ -2511,3 +2511,6 @@ footer .menu li a:hover {
 #contact {
   background: #f9f9f9;
 }
+.signFrameHeader {
+  width: 90%;
+}
