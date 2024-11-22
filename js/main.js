@@ -12,6 +12,7 @@
    MixitUp
    ========================================================================== */
   $("#portfolio").mixItUp();
+  $("#portfolio2").mixItUp();
 
   /* 
    Clients Sponsor 

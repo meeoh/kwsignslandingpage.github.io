@@ -1040,19 +1040,19 @@ button:focus {
 /* ==========================================================================
    Portfolio Section
    ========================================================================== */
-#portfolios {
+#portfolios, #portfolios2 {
   background: #f9f9f9;
 }
 
-#portfolios .mix {
+#portfolios .mix, #portfolios2 .mix {
   padding: 0px;
 }
 
-#portfolios .portfolio-item {
+#portfolios .portfolio-item, #portfolios2 .portfolio-item {
   padding: 10px;
 }
 
-#portfolio .mix {
+#portfolio .mix, #portfolio2 .mix {
   display: none;
 }
 
