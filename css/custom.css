@@ -7,6 +7,15 @@
   .hero-image {
     height: 25vh !important;
   }
+
+  #carousel-area .carousel-indicators {
+    bottom: 5px;
+  }
+
+  #carousel-area .carousel-indicators li {
+    width: 20px;
+    height: 5px;
+  }
 }
 
 #portfolios2 {
